@@ -54,8 +54,8 @@ Full-stack developer with 3+ years building web applications and enterprise SaaS
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzaidkhalid&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzaidkhalid&layout=compact&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mzaidkhalid&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mzaidkhalid&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400)
 
 </div>
 

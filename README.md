@@ -18,7 +18,7 @@
 
 ### About
 
-Full-stack developer with 4+ years building web applications and enterprise SaaS products from scratch to production. Started in SEO — which means I build websites the right way from the ground up.
+Full-stack developer with 3+ years building web applications and enterprise SaaS products from scratch to production. Started in SEO — which means I build websites the right way from the ground up.
 
 ---
 
@@ -64,7 +64,9 @@ Full-stack developer with 4+ years building web applications and enterprise SaaS
 
 Open to freelance projects and collaborations. Remote. Worldwide.
 
-📩 zaidkhalid9143@gmail.com
+→ 📩 zaidkhalid9143@gmail.com
+→ 💼 linkedin.com/in/muhammadzaidkhalid
+→ 🌐 zaidkhalid.dev
 
 ---
 
